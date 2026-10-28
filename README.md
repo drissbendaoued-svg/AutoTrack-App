@@ -19,11 +19,13 @@ AutoTrack هو تطبيق Android لإدارة السيارة ومتابعة أ�
 
 **AutoTrack v1.0** — النسخة المستقرة الأولى.
 
-## تنزيل التطبيق
+## 📲 تنزيل التطبيق
 
-سيتم توفير ملف APK الرسمي هنا للتنزيل المباشر.
+### [⬇️ تحميل AutoTrack v1.0 للأندرويد (APK)](https://github.com/drissbendaoued-svg/AutoTrack-App/releases/download/V1.0/app-debug.apk)
 
-> ملاحظة: التطبيق مخصص لأجهزة Android. عند التثبيت المباشر من خارج Google Play قد يطلب Android السماح بالتثبيت من هذا المصدر.
+يمكن تثبيت التطبيق مباشرة على أجهزة Android. عند التثبيت لأول مرة من خارج Google Play قد يطلب Android السماح بالتثبيت من هذا المصدر.
+
+[صفحة الإصدار AutoTrack v1.0](https://github.com/drissbendaoued-svg/AutoTrack-App/releases/tag/V1.0)
 
 ## الخصوصية
 
@@ -31,4 +33,4 @@ AutoTrack هو تطبيق Android لإدارة السيارة ومتابعة أ�
 
 ---
 
-AutoTrack — Smart vehicle management, maintenance, fuel, expenses and reminders.
+**AutoTrack — Smart vehicle management, maintenance, fuel, expenses and reminders.**
